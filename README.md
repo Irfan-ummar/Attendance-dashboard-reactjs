@@ -1,11 +1,8 @@
 # Attendance-dashboard-reactjs
 
-<h1>Created Using Reactjs and Redux</h1>
+<h2>Created Using Reactjs and Redux</h2>
 
-Installation
-
+<h1>Installation</h3>
 npm i
-
-Running
-
+<h3> Run </h3>
 npm start
